@@ -50,7 +50,7 @@ This will enable service developers to leverage any existing services or opt for
 
 
 ##
-** Test Cases & Community Discussions **
+**Test Cases & Community Discussions**
 
 All existing unit test suites in [https://github.com/singnet/snet-daemon](https://github.com/singnet/snet-daemon) must pass.
 
