@@ -7,10 +7,9 @@ status: Final
 type: Meta
 category : Meta
 created: 2020-10-08
-requires (*optional): 
-replaces (*optional): 
+requires (optional): NA
+replaces (optional): NA
 ---
-
 
 This is the recommended template for new SNEPs.
 
@@ -36,7 +35,7 @@ Describing the motivation behind a proposed change is essential for the Core Tea
 
 
 ## 
-**Technical Specification **
+**Technical Specification**
 
 The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current SingularityNET platforms.  The SNEP should consider backwards compatibilities and describe if and how the proposal is (in)compatible with any previously implemented features. The SNEP should suggest ways to resolve any incompatibilities.
 
