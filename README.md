@@ -4,7 +4,7 @@
 The SingularityNet Platform Enhancement Proposal is a document that describes an enhancement to the platform components. The document should provide a concise technical specification of the feature and a rationale for the feature. It should adhere to the guidelines as defined in ** &lt;link to first proposal>**. The author is expected to build consensus on the proposal and take it forward.
 
 
-#Types
+# Types
 
 There are two two types of proposals
 
